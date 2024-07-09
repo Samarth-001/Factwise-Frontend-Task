@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.container{
+  background-color: black;
+  height: 100vh;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -33,4 +38,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.header{
+  font-size: 60px;
+  width: 100%;
+  text-align: center;
+  color: white;
 }
